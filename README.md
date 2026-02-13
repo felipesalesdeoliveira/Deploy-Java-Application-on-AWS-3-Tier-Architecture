@@ -242,4 +242,3 @@ Se este projeto foi útil:
 ---
 
 > ⚠️ Este projeto simula uma aplicação Java em produção com arquitetura 3-Tier na AWS, provisionada de forma automatizada usando Terraform, garantindo escalabilidade, alta disponibilidade e segurança.
- ddddd
