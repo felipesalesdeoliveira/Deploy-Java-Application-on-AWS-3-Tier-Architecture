@@ -1,4 +1,4 @@
-# ☕ Deploy de Aplicação Java na AWS com Arquitetura 3 Camadas (3-Tier) e Terraform
+# ☕ Deploy Java Application on AWS 3-Tier Architecture com Terraform
 
 ![AWS Architecture](https://imgur.com/b9iHwVc.png)
 
